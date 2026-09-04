@@ -1,0 +1,12 @@
+From: "Suporte Financeiro" <financeiro@empresa-legitima.com>
+To: vitima@target.corp
+Reply-To: cobrancas@server-xyz-malicious.com
+Subject: URGENTE: Pagamento de fatura pendente
+Message-ID: <1234567890@fake-server.com>
+Authentication-Results: spf=fail (sender IP is 185.220.101.5) smtp.mailfrom=empresa-legitima.com; dkim=none; dmarc=fail action=none
+Received: from mail.attacker.net (185.220.101.5) by mx.google.com with ESMTPS; Fri, 04 Sep 2026 10:00:00 -0300
+Content-Type: text/plain; charset="utf-8"
+
+Prezado cliente, 
+Sua fatura expirou. Acesse o link abaixo para regularizar:
+hxxps://auth-update-login.com/login
