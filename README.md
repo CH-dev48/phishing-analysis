@@ -15,7 +15,7 @@ O projeto comprova capacidade técnica em:
 ## 🏗️ Arquitetura do Repositório
 
 ```text
-phishing-analysis/
+phishing-analysis-lab/
 ├── README.md                          # Documentação executiva do projeto
 ├── playbook/
 │   └── playbook_triagem_phishing.md   # Procedimento Operacional Padrão (SOP/Runbook)
